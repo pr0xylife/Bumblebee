@@ -1,16 +1,18 @@
 19.05.2022 | Bumblebee | 1905r |
 
-******************************
+*************************************************
 
 .url https://storage.googleapis.com/urh21265vg2o9x.appspot.com/g/b/file/d/fPimQ92mfwhQj.html
 .url https://birobixt.com/img/logo.jpg
 .iso 11bce4f2dcdc2c1992fddefb109e3ddad384b5171786a1daaddadc83be25f355
 .dll 123f96ff0a583d507439f79033ba4f5aa28cf43c5f2c093ac2445aaebdcfd31b
 
+*************************************************
+
 https://bazaar.abuse.ch/sample/11bce4f2dcdc2c1992fddefb109e3ddad384b5171786a1daaddadc83be25f355/
 https://bazaar.abuse.ch/sample/123f96ff0a583d507439f79033ba4f5aa28cf43c5f2c093ac2445aaebdcfd31b/ 
 
-******************************
+*************************************************
 
 Exec >>
 
