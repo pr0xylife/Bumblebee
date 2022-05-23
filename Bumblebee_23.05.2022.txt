@@ -1,0 +1,27 @@
+23.05.2022 | Bumblebee | 1eur |
+
+******************************
+
+.url https://storage.googleapis.com/f0f8webbex4tgd.appspot.com/g/b/file/d/file7NM6Ks83rIo6.html#
+.url https://kurabas.com/img/logo.jpg
+.iso 7427e0e343fcbddadac1b362dd77335aa522f8e093569e019c2d1834944429b2
+.dll d42f9e26697a4119dbd811b74c10149836115b349517c053a8b9fd753a609f05
+
+https://bazaar.abuse.ch/sample/7427e0e343fcbddadac1b362dd77335aa522f8e093569e019c2d1834944429b2/
+https://bazaar.abuse.ch/sample/d42f9e26697a4119dbd811b74c10149836115b349517c053a8b9fd753a609f05/
+
+******************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\documents.lnk
+
+rundll32.exe tamik.dll,tRIBCGOjis
+
+*************************************************
+
+c2's
+
+193.239.84.247:443
+192.236.194.136:443
+63.141.248.253:443
