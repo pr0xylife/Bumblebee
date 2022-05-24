@@ -1,0 +1,26 @@
+24.05.2022 | Bumblebee | 2a4 |
+
+*************************************************
+
+.url https://fromsmash.com/c3pbk-2PYN-ft
+.iso a5b39fc06464b347af81f13c5994c2bcef15001b35b4e78e4f4677eab858cb1d
+.dll 734de7439a613f0204214b4cd6092bdc95024569ceb90c9ac8ee3ea0b64f7939
+
+https://bazaar.abuse.ch/sample/a5b39fc06464b347af81f13c5994c2bcef15001b35b4e78e4f4677eab858cb1d/
+
+*************************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\New Folder.lnk
+
+rundll32.exe copy.dll,uEHffNkFYu
+
+*************************************************
+
+c2's
+
+103.175.16.106:443
+185.62.56.224:443
+146.70.106.83:443
+
