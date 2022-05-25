@@ -1,0 +1,32 @@
+25.05.2022 | Bumblebee | 25r |
+
+*************************************************
+
+.url https://storage.googleapis.com/r1ndv3jddfjo0l.appspot.com/dwld/file/1/s/filebKwMCVxDoX1f.html?h=669779047666350767#
+.url https://vayodex.com/images/logo.jpg
+.iso 43bc8eb0987f3ca4eb6b4b626c2ebd55dae07ba19ef124e1e0ea2ebea9cb5db5
+.dll 734de7439a613f0204214b4cd6092bdc95024569ceb90c9ac8ee3ea0b64f7939
+
+https://bazaar.abuse.ch/sample/90e90b3eb3270f40a829374e3937c47220bb0fe281506780bf79e3c5c7396b91/
+
+*************************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\documents.lnk
+
+rundll32.exe karol.dll,WqpKlgNbCN
+
+*************************************************
+
+rc4.plain iKInPE9WrB
+
+*************************************************
+
+c2's
+
+64.44.102.6:443
+192.119.64.21:443
+79.110.52.56:443
+
+
