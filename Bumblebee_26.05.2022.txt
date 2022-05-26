@@ -1,0 +1,31 @@
+26.05.2022 | Bumblebee | 6r |
+
+*************************************************
+
+.url https://storage.googleapis.com/mvqzp1mhd1a1b1.appspot.com/g/b/file/d/fkMt8w91yX1lj.html#
+.url https://banytul.com/img/logo.jpg
+.iso 8fb3dcb3d76ba5caea482661c380fe404db242f99e0a451d0134bcd6c16138dd
+.dll ff5ef3debae8293b7e5997672ef3338200acb94f9910290a23835e36f5ee0ab3
+
+https://bazaar.abuse.ch/sample/8fb3dcb3d76ba5caea482661c380fe404db242f99e0a451d0134bcd6c16138dd/
+https://bazaar.abuse.ch/sample/ff5ef3debae8293b7e5997672ef3338200acb94f9910290a23835e36f5ee0ab3/
+
+*************************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\documents.lnk
+
+rundll32.exe samelko.dll,quBoNSmTSl
+
+*************************************************
+
+rc4.plain iKInPE9WrB
+
+*************************************************
+
+c2's
+
+68.233.238.105:443
+64.44.135.250:443
+103.175.16.121:443
