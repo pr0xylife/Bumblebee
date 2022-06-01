@@ -2,13 +2,31 @@
 
 *************************************************
 
+StolenImages_Evidence
+
+.zip https://storage.googleapis.com/mm2cckwcfujjia.appspot.com/ri9s/f/d/s/filerjQtuCvFTT1h.html?h=239565745546709850
+.url https://montaers.com/images/logo.jpg
+.zip 70fbd7e897fe82c53fac92a3d7af876363e5c2edb5a045364ec9a77a0707abcd
+.iso 9ffb8129b865c204514bc18138ad957fb9ca994501c69285fbc1cb96bd7c8435
+.dll a27dfea07887442cd18f7f52d3f28994e9b93631a998fe254a8bc654fad94b4e
+
+*************************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\documents.lnk
+
+rundll32.exe lipes.dll,oFWkRTFwjm
+
+*************************************************
+
+Document Download
+
 .zip http://storage.googleapis.com/do6fs3ymfhedm6.appspot.com/0/l/h3on/d/f67qIWVTjwpYY.html
 .url https://biludoran.com/img/logo.jpg
 .zip fe51225dac24e3d23c474b75c095f4c75904640dbd9e6cf154f33a17a3f52c28
 .iso 79dc227db72f2c2007db98902390d43908649c057d31cbf1339774cf249b2959
 .dll ea52c881008e458daee5570c03b89726a0b3a652c26a3ec63002c82ba461e48c
-
-https://bazaar.abuse.ch/sample/666a129f068842ce954380a6de2aa0b5b508f7ed76033c9a8baa48916d193cb3/
 
 *************************************************
 
