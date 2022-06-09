@@ -11,7 +11,7 @@
 
 Exec >>
 
-cmd /c C:\Users\Admin\AppData\Local\Temp\documents.lnk
+cmd /c C:\Users\User\AppData\Local\Temp\documents.lnk
 
 cmd.exe" /c start requestpdf.bat
 
