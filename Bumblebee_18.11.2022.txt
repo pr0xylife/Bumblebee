@@ -1,0 +1,41 @@
+Bumblebee | 18.11.2022 | 1711 | 
+
+***************************************
+
+.url https://fromsmash.com/KpzZ99iifn-et 
+.zip 37b35ed3db1be683015b19afe04ea5428b42e79b78b0529472849c7f7e1cb1b9 -pw Nv2022
+.iso 4b6d9314b8e29ac39a87ff7f8a7a569b12d7eb832bab05cfccca24abe91211ae
+.dll 2911bdd99140387cbc8761826aacc3c9de0ccb511255aa58790955d8337e2edf
+
+***************************************
+
+lnk content:
+
+C:\Windows\System32\cmd.exe /c xipgxkiunOBWqZ.bat
+
+>> Tracker database block
+   Machine ID:  server
+   MAC Address: 00:25:90:d2:c4:a2
+   MAC Vendor:  SUPER MICRO
+   Creation:    2022-07-20 15:04:11
+
+   Volume Droid:       addf17f4-565a-45a7-8c03-ae1ebae71e39
+   Volume Droid Birth: addf17f4-565a-45a7-8c03-ae1ebae71e39
+   File Droid:         3647a303-083d-11ed-9144-002590d2c4a2
+   File Droid birth:   3647a303-083d-11ed-9144-002590d2c4a2
+
+***************************************   
+
+Exec >>
+
+cmd.exe /c xipgxkiunOBWqZ.bat
+
+rundll32  UkBuGFiaRxAAfl.dll,CheckSettings
+
+***************************************
+
+c2's
+
+193.200.16.175:443
+54.37.130.195:443
+64.44.97.58:443
