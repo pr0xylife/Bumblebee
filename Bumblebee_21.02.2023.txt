@@ -1,0 +1,40 @@
+Bumblebee | 21.11.2023 |  21maca | 
+
+***************************************
+
+.url https://firebasestorage.googleapis.com/v0/b/tonal-depth-377622.appspot.com/o/cQtCXoljqM%2FContract_02_21_Copy%2332.zip?alt=media&token=0af57743-0613-4fa8-90c9-fd5045f227bc
+.pdf 91e43c044fdcad13a25d772b91065f78ac7a809a57ace84a4606c4c3e92afaa2 Contract_02_21_Copy#39.pdf 
+.zip e0ad94230528acf966cab6ad797aa2839eca2c783889edb79a76bf5df01d0e1a Contract_02_21_Copy#32.zip - pw = 02021
+.exe 897e53b648020ab28663240bbbce54546cf6f55b35019fd4aa2a209c4a3b1832 Contract_02_21_Copy#32.exe
+
+*************************************** 
+
+Code Signing Certificate
+
+Organisation:  DIGI CORP MEDIA LLC
+Issuer:  SSL.com EV Code Signing Intermediate CA RSA R3
+Algorithm:  sha256WithRSAEncryption
+Valid from: 2022-10-31T16:01:24Z
+Valid to:   2023-10-31T15:58:50Z
+Serial number:  5143cf38d5fd26858830826632be9fda
+Intelligence:   2 malware samples on MalwareBazaar are signed with this code signing certificate
+Thumbprint Algorithm:   SHA256
+Thumbprint:  57a8aa854f3198f069bb34bc763b7773a8cfdafb562ee0ccf24a5067d45d5e3c
+Source:  This information was brought to you by ReversingLabs A1000 Malware Analysis Platform
+
+***************************************
+
+Exec >>
+
+Contract_02_21_Copy#32.exe
+
+***************************************
+
+c2's
+
+108.62.141.20:443
+104.168.140.145:443
+51.68.145.171:443
+108.62.118.170:443
+192.119.72.133:443
+23.108.57.201:443
