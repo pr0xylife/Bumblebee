@@ -2,7 +2,6 @@ Bumblebee | 03.10.2024 |  NEW_BLACK |
 
 ***************************************
 
-.url 
 .zip 2bca5abfac168454ce4e97a10ccf8ffc068e1428fa655286210006b298de42fb
 .msi c26344bfd07b871dd9f6bd7c71275216e18be265e91e5d0800348e8aa06543f9
 .exe 7df703625ee06db2786650b48ffefb13fa1f0dae41e521b861a16772e800c115
@@ -30,6 +29,16 @@ MsiExec.exe /Y "C:\ProgramData\BDncqpUxZl.dll"
 distro 
 
 http://193.242.145.138/mid/w1/Midjourney.msi
+
+***************************************
+
+lnk metadata
+
+>> Tracker database block
+   Machine ID:  leeholm16
+   MAC Address: 00:1c:c4:2d:f4:0b
+   MAC Vendor:  HP
+   Creation:    2012-11-20 23:23:58
 
 ***************************************
 
