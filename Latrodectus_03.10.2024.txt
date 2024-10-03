@@ -1,0 +1,50 @@
+03.10.2024 | Latrodectus | Brute Ratel | Version 1.8 | CampaignID: Alpha
+
+*************************************************
+
+.url https://www.chocoladdict.fr/wp/wp-content/themes/begin5.2/inc/go.php?url=///cutt.ly/xeOQNHmZ#_45XeGB8T
+.js  0d9d65a1f9c447584a022a866fed2399bf8b42e2a0087a786e87087bba1e18f1
+.msi ea1792f689bfe5ad3597c7f877b66f9fcf80d732e5233293d52d374d50cab991
+.dll 97a6331239d451d7dfe15bfe17de8b419df741ae68bacd440808f8b8d3f99b8a BRC4
+.dll 
+
+*************************************************
+
+url > .js > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Document-20-15-53.js
+
+msiexec.exe /V
+
+MsiExec.exe -Embedding E78A8FC8F8985E305FF07F3BAD7CDCDD
+
+MSIEC98.tmp /DontWait C:/Windows/SysWOW64/rundll32.exe C:\Users\Admin\AppData\Roaming\vierm_soft_x64.dll, GetDeepDVCState
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\vierm_soft_x64.dll, GetDeepDVCState
+
+*************************************************
+
+.js & .dll distro
+
+https://www.chocoladdict.fr/wp/wp-content/themes/begin5.2/inc/go.php?url=///cutt.ly/xeOQNHmZ#_45XeGB8T
+https://cutt.ly/OeOQBd8O
+https://shcdn.top/
+https://firebasestorage.googleapis.com/v0/b/fifth-branch-437219-c4.appspot.com/o/XjnN2wPgFT%2FDocument-20-18-07.js?
+http://188.119.112.7/das.msi
+
+*************************************************
+
+c2's
+
+BRC4
+
+https://greshunka.com:8041/bazar.php
+https://combazarunet.com:8041
+https://tiguanin.com:8041
+
+Latrodectus
+
+hhttps://opewolumeras.com/test/
+https://isomicrotich.com/test/
+
+*************************************************
